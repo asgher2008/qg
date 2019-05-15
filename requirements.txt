@@ -1,4 +1,5 @@
-- Python 3.5+
-- NLTK
-- NumPy
-- textblob
+Python 3.5+
+NLTK
+NumPy
+textblob
+gunicorn
