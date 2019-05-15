@@ -1,4 +1,4 @@
-Python 3.5+
+Python==3.6.7
 NLTK==3.4
 NumPy==1.16.3
 textblob==0.15.3
